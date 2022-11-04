@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: User should be able to verify the functionality title
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 93.541 s - in User should be able to verify the functionality title
